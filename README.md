@@ -18,4 +18,5 @@ The following results were obtained:
 - SARSA performed best on more difficult Sudoku puzzles.
 - Q-learning was effective on simpler puzzles but faced challenges with higher complexity.
 - Monte Carlo took longer to converge but eventually achieved good results.
+  
 -[Demo](https://youtu.be/4bOpnsEA8EE)
