@@ -12,24 +12,6 @@ In this project, we implemented the following RL algorithms:
 
 The results are evaluated across different puzzle difficulties (easy, medium, hard).
 
-## How to Run the Code
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/RL-6x6-Sudoku-Solver.git
-   cd RL-6x6-Sudoku-Solver
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the training script:
-   ```bash
-   python train_sudoku.py
-   ```
-
 ## Results
 
 The following results were obtained:
