@@ -19,4 +19,4 @@ The following results were obtained:
 - Q-learning was effective on simpler puzzles but faced challenges with higher complexity.
 - Monte Carlo took longer to converge but eventually achieved good results.
   
--[Demo]([https://youtu.be/4bOpnsEA8EE](https://youtu.be/5c6wsxkJblY))
+-[Demo](https://youtu.be/5c6wsxkJblY)
